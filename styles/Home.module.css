@@ -23,7 +23,7 @@ margin-left: 50px;
 .wrapper .right{
   display: flex;
   flex-direction: column ;
-  background-color: rgb(73, 73, 75);
+  background-color: #100E1D;
       padding:50px 70px;
 }
 .todayWeather > section{

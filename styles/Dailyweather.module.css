@@ -1,8 +1,0 @@
-.container{
-    background-color:#333 ;
-    padding: 10px 25px;
-}
-.container span{
-    display: flex;
-    column-gap: 10%;
-}
